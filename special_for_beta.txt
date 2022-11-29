@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 ok and?
 
 its work
-=======
 ok and?
->>>>>>> b87f89865cbeca3e12e38be838c959f49b628826
